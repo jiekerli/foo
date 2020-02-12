@@ -1,8 +1,8 @@
 [
     {
         "name": "Shippori Mincho",
-        "url": "",
-        "thumbnail": "",
+        "url": "https://github.com/jiekerli/foo/raw/master/ShipporiAntique-Medium.otf",
+        "thumbnail": "https://github.com/jiekerli/foo/raw/master/ShipporiAntique-Medium.png",
         "lang": ["ja","jp"]
     }
 ]
